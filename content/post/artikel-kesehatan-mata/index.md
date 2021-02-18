@@ -9,6 +9,8 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+![](mata-_121122134608-542.jpg)
+
 <!--StartFragment-->
 
 **Mata** adalah panca indera manusia yang sangat penting/esensial. Dapat dibayangkan jika kita mengalami kerusakan mata atau kebutaan, kita tidak dapat menikmati dan merasakan betapa indahnya alam semesta ini.
