@@ -17,4 +17,4 @@ Infeksi virus Corona disebut COVID-19 (Corona Virus Disease 2019) dan pertama ka
 
 Hal tersebut membuat beberapa negara menerapkan kebijakan untuk memberlakukan lockdown dalam rangka mencegah penyebaran virus Corona. Di Indonesia sendiri, diberlakukan kebijakan Pembatasan Sosial Berskala Besar (PSBB) untuk menekan penyebaran virus ini.
 
-![]( "corona")
+![](virus-corona-740x450.jpg "corona")
