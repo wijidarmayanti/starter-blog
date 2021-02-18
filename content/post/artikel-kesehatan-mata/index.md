@@ -11,7 +11,7 @@ image:
 ---
 ![](mata-_121122134608-542.jpg)
 
-<!--StartFragment-->
+
 
 **Mata** adalah panca indera manusia yang sangat penting/esensial. Dapat dibayangkan jika kita mengalami kerusakan mata atau kebutaan, kita tidak dapat menikmati dan merasakan betapa indahnya alam semesta ini.
 
@@ -22,5 +22,3 @@ Studi yang dilakukan oleh Eye Disease Prevalence Research Group (2004) memperkir
 Gangguan kesehatan mata yang umum terjadi adalah penurunan fungsi penglihatan, gejala mata merah tanpa ada penurunan fungsi penglihatan, dan mata merah dengan fungsi penglihatan turun. Sampai saat ini, penyakit mata yang banyak diderita adalah katarak, glukoma, dan infeksi.
 
 Sampai saat ini aktivitas antioksidan dari senyawa lutein, zeaxanthin, dan astaxanthin memberi jawaban mekanisme terjadinya peningkatan kesehatan mata. Radikal bebas yang berasal dari sinar UV atau cemaran udara, masuk ke mata mengakibatkan terjadinya reaksi oksidasi molekul-molekul rentan pada lensa mata.
-
-<!--EndFragment-->
