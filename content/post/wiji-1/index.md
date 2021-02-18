@@ -5,7 +5,7 @@ date: 2021-02-18T13:51:27.961Z
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: virus-corona-740x450.jpg
   focal_point: Smart
   preview_only: false
 ---
